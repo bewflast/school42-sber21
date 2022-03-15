@@ -1,0 +1,5 @@
+a
+.vscode
+.DS_St*
+*.o
+*.out
