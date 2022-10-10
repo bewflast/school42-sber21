@@ -31,4 +31,6 @@ int main ( void )
     std::cout   <<  "str:\t"        <<  str         <<  std::endl   <<  
                     "*str_p:\t"     <<  *str_p      <<  std::endl   <<
                     "str_r:\t"      <<  str_r       <<  std::endl   ;
+    
+    return(0);
 }
