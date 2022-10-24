@@ -1,4 +1,4 @@
-NAME = ex00
+NAME = ex02
 
 SRC = $(wildcard source/*.cpp)
 
